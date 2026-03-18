@@ -165,12 +165,11 @@ Senha: *(em branco)*
 
 ---
 
-## 👨‍💻 Autores
+## 👨‍💻 Autor
 
  ### Desenvolvido por: 
  - Luan Orlandelli Ramos - 554747
- - Arthur Bobadilla Franchi - 555056
- - Jorge Luiz Silva Santos - 554418
+
  ### Curso: 
  - Engenharia de Software 
  - 2ESPY
